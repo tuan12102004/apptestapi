@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "473187258795",
+    "project_id": "appdessert",
+    "storage_bucket": "appdessert.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473187258795:android:3fc6d87a93e002d66542ee",
+        "android_client_info": {
+          "package_name": "com.example.app_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473187258795-ib3199tthp2ptq661kq3h5bo38b3ssu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app_test",
+            "certificate_hash": "1f4cd235f5f044cf69217df6917f2c49890b6601"
+          }
+        },
+        {
+          "client_id": "473187258795-ujacnbq6c7o0qovmba7afovc6cbmsbi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxk-B5NjS6K54Jl5VQVAtSj0Wgg92ksec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473187258795-ujacnbq6c7o0qovmba7afovc6cbmsbi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

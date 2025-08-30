@@ -1,0 +1,38 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "appdessert",
+          "appId": "1:473187258795:android:3fc6d87a93e002d66542ee",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "appdessert",
+          "configurations": {
+            "android": "1:473187258795:android:3fc6d87a93e002d66542ee",
+            "ios": "1:473187258795:ios:8c9173df58f345556542ee",
+            "web": "1:473187258795:web:76de1a76a649d9a86542ee",
+            "windows": "1:473187258795:web:a4b23773038f0b306542ee"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

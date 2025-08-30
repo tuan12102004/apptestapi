@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "firebase logout": "appbannuoc-e29e6",
+    "dessert": "appdessert",
+    "default": "appdessert"
+  },
+  "targets": {},
+  "etags": {}
+}

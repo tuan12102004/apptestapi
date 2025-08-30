@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tên app -->
+    <string name="app_name">AppShop</string>
+
+    <!-- Facebook SDK -->
+    <string name="facebook_app_id">1129620435707761</string>
+    <string name="facebook_client_token">0ad3f623d5da4749e82a39af70287766</string>
+
+    <!-- Login protocol scheme -->
+    <string name="fb_login_protocol_scheme">fb1129620435707761</string>
+</resources>
